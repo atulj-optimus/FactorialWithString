@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="21AA518B-89D9-407D-8B68-72F2EE12585B" ModuleId="FactorialWithString" />
+  <Module PersistentId="412CF3EB-1B74-4974-A2FF-790915EDAAAA" ModuleId="FactorialWithStringTest" />
+</Modules>

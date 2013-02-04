@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\bin\Debug\FactorialWithStringTest.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\bin\Debug\FactorialWithStringTest.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\bin\Debug\FactorialWithString.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\bin\Debug\FactorialWithString.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\obj\Debug\FactorialWithStringTest.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\FactorialWithString\FactorialWithStringTest\obj\Debug\FactorialWithStringTest.pdb
